@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            conrey(dot)org
+description:      Storage, Infrastructure, Homebrew, Life
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Theron Conrey
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "Infrastructure at scale, Free software aficionado, Fedora user, telecom hobbyist, fermentation enthusiast, recovering VCP and vExpert, family man."
+  email:          theron@conrey.org
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter: theronconrey       
+  facebook: theron.conrey     
+  # github:         
+  # stackexchange:  
+  linkedin: theronconrey       
+  # instagram:      
+  # flickr:         
+  # tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:
+  google_plus: +TheronConrey
 
 # Background image to be tiled on all pages
 background: 
