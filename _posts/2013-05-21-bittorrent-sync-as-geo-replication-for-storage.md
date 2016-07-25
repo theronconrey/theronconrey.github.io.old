@@ -4,6 +4,7 @@ title:  "bittorrent sync as geo-replication for storage"
 date:   2013-05-21 17:00:04 -0500
 categories: storage
 tags: storage
+comments: false
 image:
   feature: abstract-2.png
   credit: theronconrey
