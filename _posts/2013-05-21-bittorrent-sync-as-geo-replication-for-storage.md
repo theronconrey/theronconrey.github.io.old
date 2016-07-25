@@ -3,6 +3,11 @@ layout: post
 title:  "bittorrent sync as geo-replication for storage"
 date:   2013-05-21 17:00:04 -0500
 categories: storage
+tags: storage
+image:
+  feature: abstract-2.png
+  credit: theronconrey
+
 ---
 **update:** 
 In early 2016, [Resilio][resilio-about] was spun out of [BitTorrent][bittorrent-about] to bring distributed technology to the enterprise. This is awesome news and I'll be posting some updates about what Resilio is up to moving forward. Below is my initial post from 2013 that was [syndicated on the Bittorrent Sync blog][bittorrent-blog].
