@@ -28,7 +28,6 @@ owner:
 # Background image to be tiled on all pages
 background: 
 
-excerpt_separator: <!–break–>
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
 google_verify:      
@@ -54,6 +53,10 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+
+# add back in teaser article functionality
+excerpt_separator: <!–break–>
+
 
 kramdown:
   input: GFM
