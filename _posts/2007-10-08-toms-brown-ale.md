@@ -11,14 +11,10 @@ image:
 
 ---
 
+# American Brown Ale
 I initially brewed this Brown Ale for my Dad's return from Iraq.  This is by far my hands down favorite brew.  With 10 gallons on tap I invited some friends over to try it, and 10 gallons of this goes **FAST**. I did manage to save some for my Dad, and all parties agreed that this was one of the best that I'd brewed.  I'm going to be brewing this again shortly, quite possibly the brew I'll make down at Raccoon River for teach a friend to homebrew days...
 
-
-
-# American Brown Ale
-
-BJCP Style and Style Guidelines
---------------
+# BJCP Style and Style Guidelines
 10-D  Brown Ale, American Brown Ale
 
 Min OG:  1.040   Max OG:  1.060
@@ -29,8 +25,7 @@ Min Clr:    15   Max Clr:    22
 
 Color in SRM, Lovibond
 
-Recipe Specifics
-----------------
+#Recipe Specifics
 Batch Size (Gal):        10.00    
 
 Wort Size (Gal):          10.00
@@ -48,16 +43,14 @@ Brewhouse Efficiency:       75 %
 Wort Boil Time:             75    Minutes
 
 
-Pre-Boil Amounts
-----------------
+# Pre-Boil Amounts
 Evaporation Rate:      15.00    Percent Per Hour
 
 Pre-Boil Wort Size:   12.31    Gal
 
 Pre-Boil Gravity:      1.045    SG          11.18 Plato
 
-Formulas Used
--------------
+# Formulas Used
 Brewhouse Efficiency and Predicted Gravity based on Method #1, Potential Used.
 
 Final Gravity Calculation Based on Points.
@@ -70,10 +63,9 @@ Color Formula Used:   Morey
 
 Hop IBU Formula Used: Rager
 
-Grain/Extract/Sugar
+# Grain/Extract/Sugar
 
-   %     Amount     Name      Origin        Potential SRM
---------------
+# %     Amount     Name      Origin        Potential SRM
 86.7    18.00 lbs. Pale Malt(2-row) America        1.036      1
 
 4.8     1.00 lbs. Crystal 80L                       1.033     80
@@ -87,8 +79,7 @@ Grain/Extract/Sugar
 Potential represented as SG per pound per gallon.
 
 # Hops
-Amount     Name            Form  Alpha  IBU  Boil Time
-----------------------------
+# Amount     Name            Form  Alpha  IBU  Boil Time
 
 1.50 oz.    Northern Brewer    Whole 9.00  31.4  75 min.
 
@@ -100,17 +91,14 @@ Amount     Name            Form  Alpha  IBU  Boil Time
 
 # Extras
 
-Amount      Name      Type    Time
------------------------------
+# Amount      Name      Type    Time
 
 0.10 Oz     Irish Moss Fining 15 Min.(boil)
 
 # Yeast
------------------------------
 WYeast 1187 Ringwood Ale
 
-Mash Schedule
--------------
+# Mash Schedule
 Mash Type: Single Step
 
 Grain Lbs:   20.75
@@ -132,9 +120,7 @@ Total Mash Volume Gal: 7.35 - Dough-In Infusion Only
 
 All temperature measurements are degrees Fahrenheit.
  
-Notes
------
-
+# Notes
 Primary Fermentation:  1 week @ 65-70 degrees
 
 Secondary Fermentation:  1 week @ 65 degrees
