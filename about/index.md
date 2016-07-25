@@ -2,9 +2,8 @@
 layout: page
 title: conrey(dot)org
 image:
-  feature: conreyheader.jpg
+  feature: abstract-1.jpg
   credit: theronconrey 
-  creditlink: http://www.twitter.com/theronconrey
 comments: false
 modified: 2016-02-01
 ---
