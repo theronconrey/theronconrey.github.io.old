@@ -6,7 +6,7 @@ categories: fermentation
 tags: fermentation
 comments: false
 image:
-  feature: abstract-2.png
+  feature: abstract-3.png
   credit: theronconrey
 
 ---
