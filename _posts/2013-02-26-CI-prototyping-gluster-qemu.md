@@ -6,12 +6,12 @@ categories: infrastructure
 tags: infrastructure
 comments: false
 image:
-  feature: abstract-1.png
+  feature: abstract-1.jpg
   credit: theronconrey
 
 ---
 
-I just wrapped up my presentation at the [Gluster Workshop at CERN][gluster-cern] where I discussed Open Source advantages in tackling converged infrastructure challenges.  Here is my <a href="http://www.rwx3.com/downloads/CI_presentation_26Feb2013.pdf">slidedeck</a>.  Just a quick heads up, there's some animation that's lost in the pdf export as well as color commentary during almost every slide.
+I just wrapped up my presentation at the [Gluster Workshop at CERN][gluster-cern] where I discussed Open Source advantages in tackling converged infrastructure challenges.  Here is my [slidedeck]({{ site.url }}/assets/CI_presentation_26Feb2013.pdf).  Just a quick heads up, there's some animation that's lost in the pdf export as well as color commentary during almost every slide.
 
 During the presentation I demo'ed out the new QEMU/GlusterFS native integration leveraging libgfapi.  For those of you wondering what that means, in short, there's no need for FUSE anymore and QEMU leverages GlusterFS natively on the back end.  Awesome.
 
