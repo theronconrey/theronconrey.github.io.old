@@ -11,20 +11,22 @@ url:
 owner:
   name:           Theron Conrey
   avatar:         avatar.jpg
-  bio:            "Infrastructure at scale, Free software aficionado, Fedora user, telecom hobbyist, fermentation enthusiast, recovering VCP and vExpert, family man."
+  bio:            "Open Infrastructure at scale. chaos compatible. he/him. former redhatter. storage aficionado. Veteran. Anti-racist. Anti-Fascist."
   email:          theron@conrey.org
   # Social networking links used in footer. Update and remove as you like.
+  mastodon: @theronconrey@fosstodon.org
+  IRC: theron on libera.chat
   twitter: theronconrey       
-  facebook: theron.conrey     
+  linkedin: theronconrey       
+  # facebook: theron.conrey     
   # github:         
   # stackexchange:  
-  linkedin: theronconrey       
-  # instagram:      
+    # instagram:      
   # flickr:         
   # tumblr:         
   # google plus id, include the '+', eg +mmistakes
   # google_plus: +TheronConrey
-
+  
 # Background image to be tiled on all pages
 background: 
 
